@@ -7,6 +7,6 @@ An App made by following the instruction of [Developer](https://developer.androi
 
 # To Do
 - [x] Create an app same as First App by following the instruction
-- [ ] Add multi-language support
+- [x] Add multi-language support
 - [ ] Add support for different screens
 - [ ] Add support for different platform versions
