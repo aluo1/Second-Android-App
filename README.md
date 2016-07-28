@@ -6,5 +6,5 @@ An App made by following the instruction of [Developer](https://developer.androi
 - This app is made to make me familarize with Android development
 
 # To Do
-[ ] Create an app same as First App by following the instruction
-[ ] Add multi-language support
+- [x] Create an app same as First App by following the instruction
+- [ ] Add multi-language support
