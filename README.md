@@ -9,4 +9,4 @@ An App made by following the instruction of [Developer](https://developer.androi
 - [x] Create an app same as First App by following the instruction
 - [x] Add multi-language support
 - [x] Add support for different screens
-- [ ] Add support for different platform versions
+- [x] Add support for different platform versions
