@@ -1,5 +1,5 @@
 # Second-Android-App
-An App made by following the instruction of android-developer
+An App made by following the instruction of [Developer](https://developer.android.com/training/basics/firstapp/index.html)
 
 # Introduction
 - This app is almost the same as my first app, which is also made by following the instruction, the only difference is this app will support multiple languages.
